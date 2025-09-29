@@ -1,46 +1,159 @@
-# Getting Started with Create React App
+# Ace It - Student Assistant Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A comprehensive student assistant web application designed to help students manage their academic life, track their well-being, and access essential resources.
 
-## Available Scripts
+## 🚀 Features
 
-In the project directory, you can run:
+### Core Features
+- **📅 Class Schedule Management** - Input and manage class schedules with reminders
+- **📚 Homework Tracker** - Track assignments with due dates and priority levels
+- **💭 Mood Tracker** - Daily mood logging with insights and trends
+- **🤖 AI Assistant** - Intelligent chatbot for academic support and guidance
+- **📊 Analytics Dashboard** - Personal insights and productivity metrics
+- **🔗 Student Resources** - Curated list of mental health and academic resources
 
-### `npm start`
+### Enhanced Features
+- **🌙 Dark/Light Mode** - Toggle between themes for comfortable viewing
+- **♿ Accessibility First** - WCAG 2.1 AA compliant design
+- **📱 Responsive Design** - Works seamlessly on desktop and mobile
+- **📈 Data Visualization** - Interactive charts and graphs
+- **🔔 Smart Notifications** - Class and assignment reminders
+- **🎯 Goal Tracking** - Weekly academic and wellness goals
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🛠️ Tech Stack
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Frontend
+- **React 18** with TypeScript
+- **Tailwind CSS** for styling
+- **React Router** for navigation
+- **Chart.js** for data visualization
+- **Heroicons** for icons
+- **Headless UI** for accessible components
 
-### `npm test`
+### Backend (Planned)
+- **Flask** (Python) for API
+- **SQLite** for data storage
+- **OpenAI API** for AI assistant
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Deployment
+- **Vercel** for frontend hosting
+- **Railway/Heroku** for backend hosting
 
-### `npm run build`
+## 🎯 Hackathon Focus
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This project is designed for **HackRU 2025** with focus on:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Social Good Track
+- **Mental Health Support** - Crisis resources and mood tracking
+- **Accessibility** - Inclusive design for all students
+- **Community Resources** - Curated student discounts and support
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Education Track
+- **Academic Success** - Comprehensive study management
+- **Learning Analytics** - Data-driven insights for improvement
+- **Resource Access** - Easy access to educational tools
 
-### `npm run eject`
+## 🚀 Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. Clone the repository:
+```bash
+git clone https://github.com/MohammedYashHossain/HackRU25.git
+cd HackRU25
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+2. Install dependencies:
+```bash
+npm install
+```
 
-## Learn More
+3. Start the development server:
+```bash
+npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📱 Usage
+
+### Dashboard
+- Overview of your academic day
+- Quick access to all features
+- Real-time updates and notifications
+
+### Class Schedule
+- Add classes with times and locations
+- Color-coded weekly view
+- Automatic reminders
+
+### Homework Tracker
+- Add assignments with due dates
+- Priority-based organization
+- Progress tracking
+
+### Mood Tracker
+- Daily mood logging
+- Energy and stress level tracking
+- Trend visualization
+
+### AI Assistant
+- Ask questions about your schedule
+- Get study tips and advice
+- Access resources and support
+
+### Analytics
+- Personal productivity metrics
+- Mood and study pattern insights
+- Goal progress tracking
+
+### Resources
+- Mental health crisis support
+- Student discounts and benefits
+- Academic tools and services
+
+## 🎨 Design Philosophy
+
+- **Accessibility First** - Designed for all users
+- **Clean & Modern** - Intuitive user interface
+- **Data-Driven** - Insights to improve academic performance
+- **Wellness Focused** - Mental health and well-being integration
+
+## 🔮 Future Enhancements
+
+- **Real AI Integration** - OpenAI API for advanced assistance
+- **Mobile App** - Native iOS/Android applications
+- **Study Groups** - Collaborative features
+- **Integration APIs** - Canvas, Blackboard, Google Calendar
+- **Advanced Analytics** - Machine learning insights
+
+## 🤝 Contributing
+
+This is a hackathon project, but contributions are welcome! Please feel free to submit issues and enhancement requests.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 👥 Team
+
+- **Mohammed Yash Hossain** - Lead Developer
+- **Team Members** - Demo & Presentation Specialists
+
+## 🏆 Hackathon Goals
+
+- **Innovation** - Unique combination of academic and wellness features
+- **Impact** - Real-world solution for student challenges
+- **Technical Excellence** - Modern, scalable architecture
+- **User Experience** - Intuitive and accessible design
+- **Social Good** - Mental health and accessibility focus
+
+---
+
+**Built with ❤️ for HackRU 2025**
+
+*Time to Ace It! 🎓*
