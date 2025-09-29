@@ -141,8 +141,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Team
 
-- **Mohammed Yash Hossain** - Lead Developer
-- **Team Members** - Demo & Presentation Specialists
+- **Mohammed Y Hossain** - Lead Developer & Technical Lead
+- **Oheen Rahman** - Demo & Presentation Specialist
+- **Sabahat Meah** - Demo & Presentation Specialist  
+- **Ayaan Choudhury** - Demo & Presentation Specialist
 
 ## 🏆 Hackathon Goals
 
