@@ -3,7 +3,6 @@ import {
   HeartIcon, 
   FaceSmileIcon,
   FaceFrownIcon,
-  FaceMehIcon,
   PlusIcon,
   ChartBarIcon
 } from '@heroicons/react/24/outline';
@@ -456,3 +455,4 @@ const MoodTracker: React.FC = () => {
 };
 
 export default MoodTracker;
+

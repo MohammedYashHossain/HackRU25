@@ -4,7 +4,7 @@ import {
   HeartIcon, 
   AcademicCapIcon, 
   CurrencyDollarIcon,
-  ExternalLinkIcon,
+  ArrowTopRightOnSquareIcon,
   MagnifyingGlassIcon,
   TagIcon
 } from '@heroicons/react/24/outline';
@@ -255,7 +255,7 @@ const Resources: React.FC = () => {
                     className="btn-primary w-full flex items-center justify-center space-x-2"
                   >
                     <span>Visit Resource</span>
-                    <ExternalLinkIcon className="w-4 h-4" />
+                    <ArrowTopRightOnSquareIcon className="w-4 h-4" />
                   </a>
                 </div>
               );
@@ -300,7 +300,7 @@ const Resources: React.FC = () => {
                   className="btn-primary w-full flex items-center justify-center space-x-2"
                 >
                   <span>Visit Resource</span>
-                  <ExternalLinkIcon className="w-4 h-4" />
+                  <ArrowTopRightOnSquareIcon className="w-4 h-4" />
                 </a>
               </div>
             );
@@ -338,7 +338,7 @@ const Resources: React.FC = () => {
                 className="inline-flex items-center space-x-2 text-red-700 dark:text-red-300 hover:text-red-800 dark:hover:text-red-200 font-medium"
               >
                 <span>National Suicide Prevention Lifeline: 988</span>
-                <ExternalLinkIcon className="w-4 h-4" />
+                <ArrowTopRightOnSquareIcon className="w-4 h-4" />
               </a>
               <br />
               <a
@@ -348,7 +348,7 @@ const Resources: React.FC = () => {
                 className="inline-flex items-center space-x-2 text-red-700 dark:text-red-300 hover:text-red-800 dark:hover:text-red-200 font-medium"
               >
                 <span>Crisis Text Line: Text HOME to 741741</span>
-                <ExternalLinkIcon className="w-4 h-4" />
+                <ArrowTopRightOnSquareIcon className="w-4 h-4" />
               </a>
             </div>
           </div>
@@ -359,3 +359,4 @@ const Resources: React.FC = () => {
 };
 
 export default Resources;
+

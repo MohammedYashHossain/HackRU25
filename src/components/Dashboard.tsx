@@ -7,7 +7,8 @@ import {
   ChatBubbleLeftRightIcon,
   ClockIcon,
   CheckCircleIcon,
-  ExclamationTriangleIcon
+  ExclamationTriangleIcon,
+  ChartBarIcon
 } from '@heroicons/react/24/outline';
 
 interface Class {
@@ -321,3 +322,4 @@ const Dashboard: React.FC = () => {
 };
 
 export default Dashboard;
+

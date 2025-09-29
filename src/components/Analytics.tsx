@@ -4,8 +4,8 @@ import {
   AcademicCapIcon, 
   HeartIcon, 
   ClockIcon,
-  TrendingUpIcon,
-  TrendingDownIcon,
+  ArrowTrendingUpIcon,
+  ArrowTrendingDownIcon,
   CalendarIcon
 } from '@heroicons/react/24/outline';
 import { Line, Bar, Doughnut } from 'react-chartjs-2';
@@ -198,9 +198,9 @@ const Analytics: React.FC = () => {
   };
 
   const getProductivityIcon = (score: number) => {
-    if (score >= 80) return <TrendingUpIcon className="w-5 h-5" />;
+    if (score >= 80) return <ArrowTrendingUpIcon className="w-5 h-5" />;
     if (score >= 60) return <ChartBarIcon className="w-5 h-5" />;
-    return <TrendingDownIcon className="w-5 h-5" />;
+    return <ArrowTrendingDownIcon className="w-5 h-5" />;
   };
 
   if (!analyticsData) {
@@ -427,3 +427,4 @@ const Analytics: React.FC = () => {
 };
 
 export default Analytics;
+
