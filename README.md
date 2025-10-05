@@ -1,161 +1,71 @@
 # Ace It - Student Assistant Web App
 
-A comprehensive student assistant web application designed to help students manage their academic life, track their well-being, and access essential resources.
+A student assistant web application that helps students manage their classes, track assignments, monitor well-being, and access essential academic and mental health resources.  
+Built for **HackRU 2025**.
 
-## 🚀 Features
+🔗 **Live Project:** [https://hack-ru-25.vercel.app/](https://hack-ru-25.vercel.app/)
+
+---
+
+## Features
 
 ### Core Features
-- **📅 Class Schedule Management** - Input and manage class schedules with reminders
-- **📚 Homework Tracker** - Track assignments with due dates and priority levels
-- **💭 Mood Tracker** - Daily mood logging with insights and trends
-- **🤖 AI Assistant** - Intelligent chatbot for academic support and guidance
-- **📊 Analytics Dashboard** - Personal insights and productivity metrics
-- **🔗 Student Resources** - Curated list of mental health and academic resources
+- **Class Schedule Management** – Add and manage class schedules with reminders  
+- **Homework Tracker** – Track assignments with due dates and priority levels  
+- **Mood Tracker** – Log daily moods and visualize emotional trends  
+- **AI Assistant** – Chatbot for academic and wellness guidance  
+- **Analytics Dashboard** – View personal insights and productivity data  
+- **Student Resources** – Curated academic and mental health resources  
 
 ### Enhanced Features
-- **🌙 Dark/Light Mode** - Toggle between themes for comfortable viewing
-- **♿ Accessibility First** - WCAG 2.1 AA compliant design
-- **📱 Responsive Design** - Works seamlessly on desktop and mobile
-- **📈 Data Visualization** - Interactive charts and graphs
-- **🔔 Smart Notifications** - Class and assignment reminders
-- **🎯 Goal Tracking** - Weekly academic and wellness goals
+- **Dark/Light Mode** – Adjustable themes for comfortable viewing  
+- **Accessibility First** – WCAG 2.1 AA-compliant interface  
+- **Responsive Design** – Works across desktop and mobile  
+- **Data Visualization** – Interactive charts and visual feedback  
+- **Smart Notifications** – Assignment and class reminders  
+- **Goal Tracking** – Set and measure weekly academic and wellness goals  
 
-## 🛠️ Tech Stack
+---
+
+## 🛠 Tech Stack
 
 ### Frontend
-- **React 18** with TypeScript
-- **Tailwind CSS** for styling
-- **React Router** for navigation
-- **Chart.js** for data visualization
-- **Heroicons** for icons
-- **Headless UI** for accessible components
+> 🟦 **React**  🟨 **TypeScript**  🟧 **JavaScript**
 
-### Backend (Planned)
-- **Flask** (Python) for API
-- **SQLite** for data storage
-- **OpenAI API** for AI assistant
+### Styling & Visualization
+> 💨 **Tailwind CSS**  📊 **Chart.js**  🧭 **Heroicons**  🧩 **Headless UI**
+
+### Backend (In Progress)
+> 🐍 **Flask (Python)**  🗄 **SQLite**  🤖 **OpenAI API**
 
 ### Deployment
-- **Vercel** for frontend hosting
-- **Railway/Heroku** for backend hosting
+> ▲ **Vercel (Frontend Hosting)**  
 
-## 🎯 Hackathon Focus
+---
 
-This project is designed for **HackRU 2025** with focus on:
+## Hackathon Focus
 
 ### Social Good Track
-- **Mental Health Support** - Crisis resources and mood tracking
-- **Accessibility** - Inclusive design for all students
-- **Community Resources** - Curated student discounts and support
+- Mental health support through mood tracking and crisis resources  
+- Accessible and inclusive design principles  
+- Centralized community and student support  
 
 ### Education Track
-- **Academic Success** - Comprehensive study management
-- **Learning Analytics** - Data-driven insights for improvement
-- **Resource Access** - Easy access to educational tools
+- Academic management tools for student success  
+- AI-powered academic assistance  
+- Learning analytics and performance insights  
 
-## 🚀 Getting Started
+---
+
+## Getting Started
 
 ### Prerequisites
-- Node.js (v16 or higher)
-- npm or yarn
+- Node.js (v16 or higher)  
+- npm or yarn  
 
 ### Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/MohammedYashHossain/HackRU25.git
-cd HackRU25
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Start the development server:
-```bash
-npm start
-```
-
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## 📱 Usage
-
-### Dashboard
-- Overview of your academic day
-- Quick access to all features
-- Real-time updates and notifications
-
-### Class Schedule
-- Add classes with times and locations
-- Color-coded weekly view
-- Automatic reminders
-
-### Homework Tracker
-- Add assignments with due dates
-- Priority-based organization
-- Progress tracking
-
-### Mood Tracker
-- Daily mood logging
-- Energy and stress level tracking
-- Trend visualization
-
-### AI Assistant
-- Ask questions about your schedule
-- Get study tips and advice
-- Access resources and support
-
-### Analytics
-- Personal productivity metrics
-- Mood and study pattern insights
-- Goal progress tracking
-
-### Resources
-- Mental health crisis support
-- Student discounts and benefits
-- Academic tools and services
-
-## 🎨 Design Philosophy
-
-- **Accessibility First** - Designed for all users
-- **Clean & Modern** - Intuitive user interface
-- **Data-Driven** - Insights to improve academic performance
-- **Wellness Focused** - Mental health and well-being integration
-
-## 🔮 Future Enhancements
-
-- **Real AI Integration** - OpenAI API for advanced assistance
-- **Mobile App** - Native iOS/Android applications
-- **Study Groups** - Collaborative features
-- **Integration APIs** - Canvas, Blackboard, Google Calendar
-- **Advanced Analytics** - Machine learning insights
-
-## 🤝 Contributing
-
-This is a hackathon project, but contributions are welcome! Please feel free to submit issues and enhancement requests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Team
-
-- Mohammed Y Hossain
-- Oheen Rahman
-- Sabahat Meah
-- Ayaan Choudhury
-
-## 🏆 Hackathon Goals
-
-- **Innovation** - Unique combination of academic and wellness features
-- **Impact** - Real-world solution for student challenges
-- **Technical Excellence** - Modern, scalable architecture
-- **User Experience** - Intuitive and accessible design
-- **Social Good** - Mental health and accessibility focus
-
----
-
-**Built with ❤️ for HackRU 2025**
-
-*Time to Ace It! 🎓*
+   ```bash
+   git clone https://github.com/MohammedYashHossain/HackRU25.git
+   cd HackRU25
