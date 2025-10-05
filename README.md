@@ -98,14 +98,4 @@
 
 ### Getting Started
 
-#### System Requirements
-- Node.js (v16 or higher)  
-- npm or yarn  
-- Modern web browser (Chrome, Firefox, Edge, Safari)  
-
-#### Installation Steps
-
-1. **Clone or Download the Repository**
-   ```bash
-   git clone https://github.com/MohammedYashHossain/HackRU25.git
-   cd HackRU25
+🔗 **Live Project:** [https://hack-ru-25.vercel.app/](https://hack-ru-25.vercel.app/)
