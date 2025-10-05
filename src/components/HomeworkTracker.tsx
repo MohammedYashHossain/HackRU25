@@ -41,31 +41,31 @@ const HomeworkTracker: React.FC = () => {
         id: '1',
         title: 'React Project',
         course: 'CS 101',
-        dueDate: '2024-10-01',
+        dueDate: '2025-10-01',
         description: 'Build a todo app with React and TypeScript',
         completed: false,
         priority: 'high',
-        createdAt: '2024-09-25'
+        createdAt: '2025-09-25'
       },
       {
         id: '2',
         title: 'Calculus Homework',
         course: 'Math 205',
-        dueDate: '2024-10-03',
+        dueDate: '2025-10-03',
         description: 'Complete exercises 1-20 from chapter 5',
         completed: false,
         priority: 'medium',
-        createdAt: '2024-09-26'
+        createdAt: '2025-09-26'
       },
       {
         id: '3',
         title: 'Literature Essay',
         course: 'ENG 201',
-        dueDate: '2024-09-30',
+        dueDate: '2025-09-30',
         description: 'Write a 5-page essay on Shakespeare',
         completed: true,
         priority: 'high',
-        createdAt: '2024-09-20'
+        createdAt: '2025-09-20'
       }
     ]);
   }, []);

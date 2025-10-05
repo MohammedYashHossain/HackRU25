@@ -69,7 +69,7 @@ const Dashboard: React.FC = () => {
         id: '1',
         title: 'React Project',
         course: 'CS 101',
-        dueDate: '2024-10-01',
+        dueDate: '2025-10-01',
         completed: false,
         urgent: true
       },
@@ -77,7 +77,7 @@ const Dashboard: React.FC = () => {
         id: '2',
         title: 'Calculus Homework',
         course: 'Math 205',
-        dueDate: '2024-10-03',
+        dueDate: '2025-10-03',
         completed: false,
         urgent: false
       }
@@ -87,13 +87,13 @@ const Dashboard: React.FC = () => {
       {
         id: '1',
         mood: 'Happy',
-        date: '2024-09-29',
+        date: '2025-09-29',
         note: 'Great day, finished my project!'
       },
       {
         id: '2',
         mood: 'Stressed',
-        date: '2024-09-28',
+        date: '2025-09-28',
         note: 'Too many assignments due'
       }
     ]);

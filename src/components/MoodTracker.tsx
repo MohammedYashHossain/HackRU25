@@ -64,7 +64,7 @@ const MoodTracker: React.FC = () => {
       {
         id: '1',
         mood: 'happy',
-        date: '2024-09-29',
+        date: '2025-09-29',
         note: 'Great day, finished my project!',
         energy: 8,
         stress: 2
@@ -72,7 +72,7 @@ const MoodTracker: React.FC = () => {
       {
         id: '2',
         mood: 'stressed',
-        date: '2024-09-28',
+        date: '2025-09-28',
         note: 'Too many assignments due',
         energy: 4,
         stress: 8
@@ -80,7 +80,7 @@ const MoodTracker: React.FC = () => {
       {
         id: '3',
         mood: 'content',
-        date: '2024-09-27',
+        date: '2025-09-27',
         note: 'Peaceful day, good study session',
         energy: 6,
         stress: 3
@@ -88,7 +88,7 @@ const MoodTracker: React.FC = () => {
       {
         id: '4',
         mood: 'excited',
-        date: '2024-09-26',
+        date: '2025-09-26',
         note: 'Got accepted to internship!',
         energy: 9,
         stress: 1
@@ -96,7 +96,7 @@ const MoodTracker: React.FC = () => {
       {
         id: '5',
         mood: 'tired',
-        date: '2024-09-25',
+        date: '2025-09-25',
         note: 'Long day of classes',
         energy: 3,
         stress: 5
